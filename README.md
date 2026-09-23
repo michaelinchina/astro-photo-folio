@@ -1,3 +1,5 @@
+
+
 # Photography Portfolio + Blog — Astro Template
 
 A minimal, fast photography portfolio with two blogs and a fixed left-hand
@@ -176,7 +178,7 @@ Everything URL-bound — canonical tags, Open Graph, `sitemap-index.xml`,
 The template generates a neutral "aperture seal" mark. To use your own, replace
 `src/assets/logo-seal-light.png` (your mark on a transparent background) and
 `src/assets/logo-seal-dark.png` (your mark on white), then run `npm run gen:icons`
-(see §5). Or just replace `src/assets/seal.png` / `seal-dark.png` directly.
+(see §4). Or just replace `src/assets/seal.png` / `seal-dark.png` directly.
 
 ---
 
